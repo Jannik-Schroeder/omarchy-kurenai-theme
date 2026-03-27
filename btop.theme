@@ -1,0 +1,83 @@
+# ────────────────────────────────────────────────────────────
+# Bashtop theme - Kurenai (紅)
+# Deep crimson darkness
+# ────────────────────────────────────────────────────────────
+
+# Main background, empty for terminal default
+theme[main_bg]=""
+
+# Main text color
+theme[main_fg]="#c8b8a8"
+
+# Title color for boxes
+theme[title]="#5a5a5a"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#c41e3a"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#c41e3a"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#e0d0c0"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#2a2a2a"
+
+# Misc colors for processes box
+theme[proc_misc]="#5a5a5a"
+
+# Cpu box outline color
+theme[cpu_box]="#5a5a5a"
+
+# Memory/disks box outline color
+theme[mem_box]="#5a5a5a"
+
+# Net up/down box outline color
+theme[net_box]="#5a5a5a"
+
+# Processes box outline color
+theme[proc_box]="#5a5a5a"
+
+# Box divider line and small boxes line color
+theme[div_line]="#5a5a5a"
+
+# Temperature graph colors
+theme[temp_start]="#5a5a5a"
+theme[temp_mid]="#c41e3a"
+theme[temp_end]="#e63950"
+
+# CPU graph colors
+theme[cpu_start]="#5a5a5a"
+theme[cpu_mid]="#c41e3a"
+theme[cpu_end]="#e63950"
+
+# Mem/Disk free meter
+theme[free_start]="#5a5a5a"
+theme[free_mid]="#c41e3a"
+theme[free_end]="#e63950"
+
+# Mem/Disk cached meter
+theme[cached_start]="#5a5a5a"
+theme[cached_mid]="#c41e3a"
+theme[cached_end]="#e63950"
+
+# Mem/Disk available meter
+theme[available_start]="#5a5a5a"
+theme[available_mid]="#c41e3a"
+theme[available_end]="#e63950"
+
+# Mem/Disk used meter
+theme[used_start]="#5a5a5a"
+theme[used_mid]="#c41e3a"
+theme[used_end]="#e63950"
+
+# Download graph colors
+theme[download_start]="#5a5a5a"
+theme[download_mid]="#c41e3a"
+theme[download_end]="#e63950"
+
+# Upload graph colors
+theme[upload_start]="#5a5a5a"
+theme[upload_mid]="#c41e3a"
+theme[upload_end]="#e63950"
