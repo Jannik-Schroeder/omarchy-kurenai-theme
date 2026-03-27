@@ -4,6 +4,11 @@ A deep crimson theme for [Omarchy](https://omarchy.com). I made this because the
 
 Dark backgrounds, warm reds, Japanese vibes. WCAG AA contrast ratios across the board.
 
+## Pictures
+
+![examples](preview.png)
+
+
 ## Colors
 
 | Role | Color | Hex |
